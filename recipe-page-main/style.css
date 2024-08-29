@@ -26,7 +26,7 @@ hr {
   display: grid;
   place-items: center;
   gap: 2rem;
-  margin: 6rem auto;
+  margin: 7rem auto;
   width: 50%;
   background-color: hsl(0, 0%, 100%);
   padding: 2.4rem;
@@ -103,6 +103,9 @@ table {
 }
 tr {
   border-bottom: 1px solid #ddd;
+}
+table tr:last-child {
+  border-bottom: none;
 }
 
 /* for large devices */
