@@ -14,7 +14,7 @@ The challenge I faced is to build out the Recipe page as close to the provided p
 
 ### Links
 
-- **Live Site URL**  : [https://recipe-site-solution.netlify.app/](https://recipe-site-solution.netlify.app/)
+- **Live Site URL**  : [recipe-site-solution](https://recipe-site-landing.netlify.app/)
 - **Repository URL** : [https://github.com/nithya-aj/frontend_Mentor/tree/main/recipe-page](https://github.com/nithya-aj/frontend_Mentor/tree/main/recipe-page-main)
 
 ## My Process
